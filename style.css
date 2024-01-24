@@ -1,0 +1,61 @@
+#H{
+    top:0px;
+    position: fixed;
+    height: 50px;
+    background-color: #005EAB;
+    width: 100%;
+    padding: 10px;
+    color:white;
+}
+#p{
+    font-size: 30px;
+    text-align: left;
+    margin-top:-5px;
+}
+img{
+    height: 100vh;
+    width: 100%;
+}
+#HI{
+    float: right;
+    margin-top:-53px;
+    color:white;
+    background-color: red;
+    border: none;
+    border-radius:10px;
+    height:40px;
+    width: 100px;
+}
+button{
+    background-color:blueviolet;
+    border: none;
+    border-radius:10px;
+    height:40px;
+    width: 100px;
+    color:white;
+    margin: 20px;
+}
+#GC{
+    height: 300px;
+    width:600px;
+    margin-bottom: 20px;
+}
+#F{
+    bottom: 0px;
+    width: 100%;
+    background-color: #005EAB;
+    color:white;
+    position: fixed;
+    font-size: 20px;
+    height: 30px;
+}
+#MB{
+    width: 60%;
+}
+.close{
+    float: right;
+}
+#MI{
+    text-align: left;
+    font-size: 15px;
+}
